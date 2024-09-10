@@ -1,0 +1,364 @@
+body{
+    background-color: #26335D;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none; 
+}
+body > section{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    background-color: #2C799A;
+}
+nav a{
+    color: #fff;
+}
+.brend{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+}
+.nav_menu{
+    text-align: center;
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 58px;
+}
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+}
+h4{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+h5{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+}
+h6{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+}
+a{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    text-decoration: none;
+}
+p{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    text-decoration: none;  
+}
+.p{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    text-decoration: none; 
+    color: #737373; 
+}
+.information p{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    text-decoration: none; 
+    color: #737373; 
+}
+.sales h6{
+    color: #737373;
+}
+.no_action{
+    color: #737373;
+    margin-right: 5px;
+}
+span{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    text-decoration: none;
+}
+#layout1 #text{
+    padding-left: 130px;
+}
+#text{
+    margin: auto;  
+}
+.badge2{
+    display: flex;
+    justify-content: space-between;
+    align-items: end; 
+}
+.badge{
+    width: 50px;
+    height: 24px;
+}
+#text a{
+    color: #8D5CF6;
+}
+.btn-primary{
+    color: #fff;
+}
+.btn-primary:hover{
+    color: #fff;
+}
+.container{
+    max-width: 1036px;
+}
+.header_col{
+    background-color: #fff;
+    color: black;
+    margin-top: 80px;
+    height: 288px;
+    padding: 35px 67px 35px 40px;
+}
+.icon{
+    margin-bottom: 20px;
+}
+.line{
+    margin: 20px 0;
+}
+#header{
+    padding-top: 170px;
+    background-image: url(/img/header.1.png);
+    background-size: cover;
+}
+#online{
+    background-image: url(/img/pensils.png);
+    height: 300px;
+}
+#training{
+    background-image: url(/img/books.png);
+    height: 300px;
+}
+#liberary{
+    background-image: url(/img/table.png);
+    height: 300px;   
+}
+.information{
+    background-color: #fff;
+    color: black;
+    padding: 5px 25px 35px 25px;
+}
+#title{
+    margin-bottom: 80px;
+}
+.reviews{
+    padding: 25px 85px 55px 85px;
+}
+.sales{
+display: flex;
+}
+.price{
+display: flex;
+}
+.action{
+    color: #FF7B52;
+}
+.reviews{
+    background-color: #fff;
+    color: black;
+}
+.reviews p{
+    color: #737373;
+}
+.designer{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+#faq{
+    text-align: center;
+    margin-bottom: 95px;
+}
+.p3{
+    background-color: #fff;
+    color: black;
+    display: flex;
+    border-radius: 9px;
+}
+.p3 a{
+    padding: 25px 0 110px 28px;
+}
+.faq_text h6{
+    color: #737373;
+}
+.faq_text{
+    padding: 25px 28px 25px 20px;
+}
+.input-group{
+    width: 688px;
+    height: 58px;
+    margin: auto;
+}
+#data{
+    display: flex;
+    align-items: center;
+}
+#copyright{
+    background-color: #fff;
+    color: black;
+    height: 74px;
+}
+.info a{
+    color: #fff;
+    display: block;
+    margin-bottom: 10px;
+}
+#copyright h6{ 
+    color: #737373;
+    margin: 25px 0;
+}
+#copyright a{
+    padding-right: 20px;
+    padding-top: 25px;
+}
+footer .col-5{
+margin: auto;
+text-align: right;
+padding-right: 62px;
+}
+#home a{
+    padding-right: 21px;
+}
+#login a{
+    padding-right: 45px;
+}
+#home{
+    padding-left: 52px;
+}
+#login button{
+    padding: 15px 21px 15px 25px;
+}
+button img{
+    padding-left: 15px;
+}
+h1, h4, .h5{
+    margin-bottom: 35px;
+}
+#text .img, .h2, p{
+    margin-bottom: 35px;
+}
+.battons{
+    margin: 195px 0 0;
+    text-align: center;
+}
+.badge2, p, .sales, .price{
+    margin-bottom: 10px;
+}
+.rounded-pill{
+background-color: #26335D;
+}
+.sales img{
+    padding-bottom: 10px;
+    margin-right: 10px;
+}
+#title h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.designer img{
+    margin-right: 14px;
+}
+  
+.reviews p{
+   font-weight: 700;
+   margin-top: 15px;
+   margin-bottom: 30px;
+
+}
+.info{
+    margin-bottom: 50px;
+}
+#data img{
+    margin-bottom: 20px;
+    margin-right: 10px;
+    padding-top: 5px;
+}
+.info h5{
+    margin-bottom: 20px;
+}
+.information a{
+    border-radius: 37px;
+}
+#faq h6{
+    color: #8D5CF6;
+}
+.video{
+    position: relative;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1280/720;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.video video{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.video_play{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.video_play::after{
+    content: '';
+    display: block;
+    width: 92px;
+    height: 92px;
+    padding: 36px 34px;
+    border-radius: 92px;
+    background-color: #8D5CF6;
+    background-image: url('/img/Vector.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    /* top: 50%;
+    left: 50%;
+    margin: -46px -46px; */
+    top: calc(50% - 46px);
+    left: calc(50% - 46px);
+    position: absolute;
+}
+
